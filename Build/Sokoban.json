@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Sokoban.data.unityweb",
+"asmCodeUrl": "Sokoban.asm.code.unityweb",
+"asmMemoryUrl": "Sokoban.asm.memory.unityweb",
+"asmFrameworkUrl": "Sokoban.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
